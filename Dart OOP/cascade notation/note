@@ -1,0 +1,4 @@
+dart dilengkapi dengan cascade notation atau cascade operator
+operator ini memungkinkan kita untuk melakukan beberapa urutan operasi pada objek yang sama. kita bisa mengakses
+property dari objek dan menjalankan method bersamaan ketika kita menginstanisasi objek.
+cascade operator dituliskan dengan .. atau ?

@@ -1,0 +1,6 @@
+Fungsi dari extension methods adalah agar kita bisa membuat fungsionalitas tambahan dari library yang sudah ada
+
+ketika menggunakan library, baik dari dart maupun buatan orang, ada kemungkinan jika librarynya kurang lengkap sehingga kita perlu
+menambahkan beberapa fungsionalitas, dengan adanya extension methods, kita dapat membuat fungsi atau method tambahan lalu menggunakannya sesuai dengan 
+kebutuhan aplikasi kita
+

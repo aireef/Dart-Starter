@@ -1,0 +1,8 @@
+interface merupakan set instruksi yang bisa diimplementasikan oleh objek, interface berfungsi sebagai penghubung antar sesuatu
+yang abstrak dengan sesuatu yang nyata
+contohnya remote tv atau tombol hp, tombol ini bisa kita sebut dengan interface
+
+dart tidak memiliki keyword untuk mendeklarasikan interface.
+setiap class dalam dapat dapat bertindak sebagai interface, maka interface di dart dikenal dengan implicit interface.
+untuk mengimplementasikan interface, gunakan keyword implements Kita bisa mengimplementasikan beberapa interface sekaligus pada satu kelas.
+

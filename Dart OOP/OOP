@@ -1,0 +1,32 @@
+OOP merupakan konsep objek yang memiliki atribut serta dapat melakan operasi atau prosedur tertentu, dengan oop
+kita bisa dengan mudah memvisualisasikan objek yang ada di dunia nyata menjadi suatu program komputer
+contohnya seperti kucing, kucing sebagai sebuah objek, kucing ini memiliki karakteristik seperti bulu, warna, usia dan berat,
+karakteristik tersebut bisa kita sebut dengan atribut atau properties
+dan kucing bisa melakukan beberapa hal, seperti makan, tidur, dan bermain
+perilaku tersebut bisa kita sebut dengan method
+
+4 Pilar dalam OOP
+
+1. Enkapsulasi
+
+    enkapsulasi adalah kondisi dimana status atau kondisi didalam class, dibungkus dan bersifat private
+    artinya objek lain tidak bisa mengakses atau mengubah nilai property secara langsung.
+    
+2. abstraction
+
+    abstraksi merupakan penerapan dari enkapsulasi. abstraksi berarti sebuah objek hanya menunjukkan operasinya secara high-level
+    misalnya, kita cukup tahu bagaimana seekor kucing makan, namun kita tidak perlu tahu seperti apa metabolisme 
+    kucing yang membuat berat badannya bertambah
+
+3. inheritance
+
+    beberapa objek bisa memiliki karakteristik yang sama, namun merupakan objek yang berbeda, itulah dimana inheritance berperan
+    contohnya, kucing memiliki sifat dan perilaku yang umum dengan hewan yang lain, seperti memiliki warna, berat, dll
+    maka, kucing sebagai objek turunan(subclass), mewarisi semua sifat dan perilaku dari objek induknya(superclass)
+    begitu juga dengan ikan, juga mewarisi sifat dan perilaku yang sama, namun ikan bisa berenang, sementara kucing tidak
+
+4. polymorphism
+
+    objek dapat memiliki bentuk atau implementasi yang berbeda beda pada suatu metode yang sama.
+    semua hewan bernafas, namun kucing dan ikan memiliki cara bernafas yang berbeda.
+    perbedaan bentuk atau cara bernafas tersebut, merupakan contoh dari polymorphism

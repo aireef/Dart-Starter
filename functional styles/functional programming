@@ -1,0 +1,23 @@
+functional programming adalah dimana proses komputasi didasarkan pada fungsi matematika murni. FP dituliskan dengan gaya deklaratif
+yang berfokuskan pada "what to solve" daripada "how to solve" pada gaya imperatif
+
+karakteristik functional programming
+
+Pure function 
+sebuah fungsi bergantung pada argumen atau parameter yang dimasukkan kedalamnya, sehingga pemanggilan fungsi dengan nilai argumen yang sama 
+akan memberikan hasil yang sama juga. contoh pada fungsi ini, nilai yang dikembalikan akan bergantung pada argumen yang diberikan
+
+
+Recursion 
+pada functional programming tidak ada perulangan, Iterasi pada functional programming dilakukan melalui rekursi atau pemanggilan fungsi dari 
+fungsi itu sendiri, hingga mencapai kasus dasar.
+
+Immutable variable
+Variabel pada functional programming bersifat immutable, artinya kita tidak bisa mengubah sebuah variabel ketika sudah diinisialisasi.
+
+Functions are first-class citizen and can be higher-order
+function berlaku sama seperti komponen pemrograman yang lain. Sebuah fungsi bisa dimasukkan ke variabel menjadi parameter dalam suatu fungsi
+dan menjadi nilai kembalian dari suatu fungsi, Higher order functions adalah fungsi yang mengambil fungsi lain sebagai argumen dan juga dapat 
+mengembalikan fungsi.
+
+

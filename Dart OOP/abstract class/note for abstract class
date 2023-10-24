@@ -1,0 +1,4 @@
+abstract class merupakan gambaran umum dari sebuah class. ia tidak dapat menjadi sebuah objek
+sebagai contoh, hewan merupakan sifat, kita tidak tahu objek dari hewan tersebut, kita bisa melihat bentuk kucing namun tidak
+untuk hewan.
+konsep abstract class diterapkan agar class tidak bisa dijadikan objek, namun sifatnya bisa diturunkan

@@ -1,0 +1,4 @@
+beberapa objek bisa memiliki beberapa karakteristik yang sama walaupun bukan objek yang sama
+konsep inheritance bisa dibayangkan seperti anak yang mewarisi sifat orang tuanya
+di oop yang menurunkan sifat disebut dengan parent class/superclass, sedangkan yang mewarisi kelas induknya adalah
+childclass/subclass

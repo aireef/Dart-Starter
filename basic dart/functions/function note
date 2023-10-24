@@ -1,0 +1,14 @@
+function digunakan untuk menghasilkan output berdasarkan input tertentu yang diberikan
+selain itu juga sebagai blok kode atau prosedur yang dapat digunakan kembali 
+print juga merupakan fungsi
+Fungsi print() akan mengambil nilai String atau objek lainnya dan menampilkannya ke console
+Untuk mendeklarasikan fungsi, caranya sama dengan penulisan fungsi main() yaitu dengan menentukan tipe nilai balik atau return value 
+lalu nama fungsi dan parameter inputnya
+
+returnType functionName(type param1, type param2, ...) {
+  return result;
+}
+
+
+setiap fungsi dart selalu mengembalikan nilai, kecuali void
+biasanya fungsi seperti ini digunakan untuk kumpulan instruksi atau prosedur yang berulang dan sering digunakan.

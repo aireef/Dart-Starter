@@ -1,0 +1,10 @@
+Ketika suatu objek dibuat, semua properti pada kelas tersebut harus memiliki nilai.
+Kita dapat langsung menginisialisasi pada properti tertentu atau menginisialisasinya melalui constructor
+constructor adalah fungsi spesial dari sebuah kelas yang digunakan untuk membuat objek
+
+perbedaan antara constructor dengan fungsi biasa : 
+
+1. Constructor memiliki nama yang sama dengan nama kelas.
+2. Constructor tidak memiliki nilai kembalian (return type).
+3. Constructor akan secara otomatis dipanggil ketika sebuah objek dibuat.
+4. Jika kita tidak mendefinisikan constructor, default constructor tanpa argumen akan dibuat
